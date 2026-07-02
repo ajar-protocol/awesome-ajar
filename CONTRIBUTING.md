@@ -2,6 +2,8 @@
 
 Start with the org-wide [CONTRIBUTING.md](https://github.com/ajar-protocol/.github/blob/main/CONTRIBUTING.md) and [AGENTS.md](https://github.com/ajar-protocol/.github/blob/main/AGENTS.md). They apply fully here.
 
+New contributors should follow the org-wide [ONBOARDING.md](https://github.com/ajar-protocol/.github/blob/main/ONBOARDING.md) before opening directory PRs.
+
 This repo is a PR-driven directory for Ajar implementations, integrations, tools, bridges, and conformant sites. Entries are welcome any time.
 
 ## Wanted now
